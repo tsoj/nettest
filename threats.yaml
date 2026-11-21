@@ -124,10 +124,11 @@ common_run_options: &common_run_options
   ft-weight-decay: 0.02
   virtual-ft-weight-decay: 0.02
   tree-sample-accept: 0.12
+  score-filter-decay: 0.3
 
 trainer: &trainer
-  owner: xu-shawn
-  sha: 289991ed8fe7a926533c153dd7bbeef9ac737161
+  owner: tsoj
+  sha: bde7cb90e068cc471307f07e81d10922768bc18d
 
 reference_code: &reference_code
   owner: official-stockfish
