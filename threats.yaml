@@ -128,7 +128,7 @@ common_run_options: &common_run_options
 
 trainer: &trainer
   owner: tsoj
-  sha: bde7cb90e068cc471307f07e81d10922768bc18d
+  sha: b1214b4166481a2fee988bf151a127006adbd2d8
 
 reference_code: &reference_code
   owner: official-stockfish
